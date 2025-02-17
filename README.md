@@ -12,12 +12,11 @@ Este arquivo implementa o servidor que escuta em uma porta específica, realiza 
 2. Simple_tcpClient.py
 Este arquivo implementa o cliente que se conecta ao servidor, troca chaves Diffie-Hellman e envia uma mensagem criptografada, recebendo a resposta do servidor.
 
-# Como Usar
 # Requisitos
 Python 3.x instalado
 Conexão de rede para a comunicação TCP (pode ser executado localmente ou em uma rede)
 
-# Passos para rodar o servidor e cliente:
+# Como usar
 
 Servidor:
 1. Execute o arquivo Simple_tcpServer.py.
