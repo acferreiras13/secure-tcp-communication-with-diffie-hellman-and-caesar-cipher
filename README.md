@@ -15,6 +15,7 @@ Este arquivo implementa o cliente que se conecta ao servidor, troca chaves Diffi
 
 # Requisitos
 Python 3.x instalado
+
 Conexão de rede para a comunicação TCP (pode ser executado localmente ou em uma rede)
 
 # Como usar
