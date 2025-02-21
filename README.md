@@ -3,6 +3,7 @@ Este projeto implementa uma comunicação segura entre um servidor e um cliente 
 
 # Funcionalidades
 Diffie-Hellman: O servidor e o cliente geram chaves privadas e públicas e trocam essas chaves para estabelecer uma chave secreta compartilhada. Essa chave é usada para criptografar e descriptografar as mensagens.
+
 Cifra de César: As mensagens trocadas entre o servidor e o cliente são criptografadas usando a Cifra de César, onde o deslocamento é derivado da chave secreta compartilhada gerada pelo Diffie-Hellman.
 
 # Arquivos
